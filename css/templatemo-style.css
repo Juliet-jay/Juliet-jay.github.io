@@ -640,7 +640,7 @@ http://www.templatemo.com/tm-509-hydro
     background: #1f1f1f; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
 
-  #contact .section-title h2 {
+  #contact .section-title h2,h4 {
     color:white;
   }
 
@@ -757,7 +757,7 @@ http://www.templatemo.com/tm-509-hydro
      SOCIAL ICON              
   -----------------------------------------*/
 
-  .social-icon {
+  /* .social-icon {
     position: relative;
     padding: 0;
     margin: 0;
@@ -779,7 +779,7 @@ http://www.templatemo.com/tm-509-hydro
 
   .social-icon li a:hover {
     color: #ce3232;
-  }
+  } */
 
 
   /*---------------------------------------
@@ -1046,6 +1046,9 @@ http://www.templatemo.com/tm-509-hydro
 
     h1 {
       font-size: 2em;
+    }
+    h3 {
+      color: white
     }
 
     .media.blog-thumb .media-left {
